@@ -9,7 +9,7 @@
   <h3>Do you know me?</h3>
   <strong>😉 Nome: </strong>Luiz Fellipe<br/>
   <strong>🎂 Age: </strong>23<br/>
-  <strong>📌 City: </strong>Guaratinguetá - SP (Brazil)<br/>
+  <strong>📌 City: </strong>Guaratinguetá - SP (Brasil)<br/>
   
   <h3>I'm studying in 2022:</h3>
   <div style="display: inline_block">

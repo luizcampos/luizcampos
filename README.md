@@ -1,17 +1,20 @@
 
-- 👀 I’m interested in Javascript!
-- 🌱 I’m currently learning Javascript and Node.
 
-Hey! Welcome to my world. 👋
+<h1 align="center">Hey! Welcome to my world. 👋</h1>
 
 <img align='right' src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="380"></img>
 
-Nome:
-Age: 23
-City:
+<strong>Nome: </strong>Luiz Fellipe<br/>
+<strong>Age: </strong>23<br/>
+<strong>City: </strong>Guaratinguetá - SP (Brazil)<br/>
+
 
 Things that I love: 
 Hobbies:
+
+
+- 👀 I’m interested in Javascript!
+- 🌱 I’m currently learning Javascript and Node.
 
 Skills:
 

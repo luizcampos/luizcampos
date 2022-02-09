@@ -28,16 +28,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcampos&layout=compact&theme=tokyonight"></img>
 </div>
 
-
-<h3>Let's be friends:</h3>
-
-<a href="https://instagram.com/_fellipemoura_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luizfcampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
+<br/>
 <img align='left' src="https://media.giphy.com/media/7tn6Y2NgbLw8o/giphy.gif" width="380"></img>
 
-
-Things that I love: 
-Hobbies:
-Skills:
+<div align="right">
+  <h3>Let's be friends:</h3>
+  <a href="https://www.linkedin.com/in/luizfcampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br/>
+  <a href="https://wa.me/5512982729562" target="_blank"><img src="https://img.shields.io/badge/-WhastApp-%23E4405F?style=for-the-badge&color=00BB2D&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <br/>
+  <a href="https://instagram.com/_fellipemoura_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
